@@ -33,9 +33,9 @@ class CountDown extends Component {
       // the 'moment' is used to give current date.
 
       //year
-      //the year variable was paused coz of the buhari's feature
 
-      year = moment({ year: now.year() + 1 }),
+      //!!!!!!!!!!!!!!! IMPORTANT  //the year variable was paused coz of the buhari's feature
+      //year = moment({ year: now.year() + 1 }),
       //the '.year' keyword is used to get the current year so now.year would give us current date and current year.
       // now.year is supposed to run for 2020 coz thats the current year but the "+1 woould push it over to 2021"
 

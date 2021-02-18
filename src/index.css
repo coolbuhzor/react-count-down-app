@@ -16,3 +16,8 @@ h1 {
   color: gold !important;
   /* font-size: 100px !important; */
 }
+
+.heading {
+  font-size: 1.5rem !important;
+  color: hsl(348, 100%, 61%);
+}

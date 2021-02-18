@@ -73,7 +73,9 @@ class CountDown extends Component {
         <section className='hero is-dark is-bold has-text-centered  is-fullheight'>
           <div className='hero-body'>
             <div className='container'>
-              <h1 className='title'>CountDown To Buhari's Handover</h1>
+              <h1 className='title'>
+                CountDown To Buhari's Handover (MAY 29 2023)
+              </h1>
 
               <div className='section'>
                 <nav className='level'>
